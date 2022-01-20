@@ -1,0 +1,4 @@
+Dado un STRING formado por (), [] y {}, escribe
+un programa que indique si los pares correspondientes son correctos
+entrada = [()]{}{[()()]()} CORRECTO
+entrada = [(]) INCORRECTO
